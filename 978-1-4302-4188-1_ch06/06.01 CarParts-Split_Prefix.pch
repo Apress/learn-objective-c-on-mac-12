@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '06.01 CarParts-Split' target in the '06.01 CarParts-Split' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

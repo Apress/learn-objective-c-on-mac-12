@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '09.03 CarParts-GC' target in the '09.03 CarParts-GC' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

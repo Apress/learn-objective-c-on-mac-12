@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '04.01 Shapes-Inheritance' target in the '04.01 Shapes-Inheritance' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

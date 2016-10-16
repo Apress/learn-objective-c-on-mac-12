@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '04.02 Shapes-Green-Circles' target in the '04.02 Shapes-Green-Circles' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

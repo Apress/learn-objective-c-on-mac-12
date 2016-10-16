@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '09.02 RetainCount-2' target in the '09.02 RetainCount-2' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

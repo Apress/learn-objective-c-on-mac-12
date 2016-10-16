@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '08.02 FileWalkerPro' target in the '08.02 FileWalkerPro' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
